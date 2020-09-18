@@ -51,6 +51,7 @@ export default {
 /* font-family: 'Poppins', sans-serif; */
 
 #card {
+  background: #f7f7f7;
   border: 5px solid #fff;
   box-shadow: 0 3px 6px #e0e0e0;
   height: 100%;
@@ -70,8 +71,9 @@ export default {
 }
 
 .card-text {
-font-family: 'Poppins', sans-serif;
-font-size: 12px;
+  /* border: 1px solid red; */
+  font-family: 'Poppins', sans-serif;
+  font-size: 12px;
 }
 
 .card-wrap {

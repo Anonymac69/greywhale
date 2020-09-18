@@ -4,6 +4,7 @@
     <nav-down/>
     <banner/>
     <packages/>
+    <foot/>
   </div>
 </template>
 
